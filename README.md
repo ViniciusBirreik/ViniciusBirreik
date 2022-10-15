@@ -1,4 +1,5 @@
-### Hi there 👋
+### Quem sou eu: meu nome é Vinicius, sou estudante de Web FullStack na Growdev.
+
 
 <!--
 **ViniciusBirreik/ViniciusBirreik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
