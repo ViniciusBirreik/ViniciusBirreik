@@ -1,4 +1,7 @@
-### Quem sou eu: meu nome é Vinicius, sou estudante de Web FullStack na Growdev.
+### Quem sou eu: meu nome é Vinicius, sou estudante de Web FullStack na Growdev. Atualmente não trabalho na área de tecnologia mas pretendo ingressar o mais rápido possível.
+
+Hard skills: 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white)
 
 
 <!--
